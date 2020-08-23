@@ -4,5 +4,6 @@
  <h1> <p align="center"> Current Projects </p>
 <h1> <p align="center"> Completed Projects </p>
 <h1> <p align="center"> Other Ongoing Works </p>
- <br> <p align="center">  <a href=""> A Wonderful World Out Where? </a> </p>
+ <h2> These works work separately from the usual. Please, if you so desire, visit these sites for other insights on me. Much love and appreciation!
+  <p align="center">  <a href=""> A Wonderful World Out Where? </a> </p>
 
