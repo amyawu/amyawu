@@ -1,5 +1,5 @@
- <p align="center"> Greetings!</h1>
- <p align="center"> I'm Amy "A" Wu. <br> Pleased to meet you!</br> </p>
+ title: <p align="center"> Greetings!
+ <p align="center"> I'm Amy "A" Wu. <br> Pleased to meet you! </p>
  <p align="center"> About </p>
  <p align="center"> Current Projects </p>
  <p align="center"> Completed Projects </p>
